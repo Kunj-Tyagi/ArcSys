@@ -33,7 +33,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arpit07072005/CHAT-BOX.git
+   git clone [https://github.com/Kunj-Tyagi/ArcSys.git]
    cd CHAT-BOX
    ```
 2.Install dependencies:
